@@ -4,7 +4,8 @@ mainly to solve the following issues
   - - with \n
   - - span a
   - - span class
-  - - a path 
+  - - a path
+  - - a href
 
   - HTML with Styling to JSON
   - - with \n
@@ -13,5 +14,9 @@ mainly to solve the following issues
   - - with \n
   - - add application=javascript/json
 
+  - HTML file
+  - - remove @font-face
+  - - remove empty styling rules
+      
 # Tech Stack
 Next.js
